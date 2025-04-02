@@ -104,10 +104,14 @@ A relação entre humanos e alienígenas será abordada no jogo, mas de uma form
 
 Os assets utilizados no jogo incluem:
 
-- **Modelos 3D:** Edifícios em ruínas, veículos destruídos, personagens e criaturas.
-- **Texturas:** Superfícies realistas de concreto, metal enferrujado, sujeira e cinzas.
-- **Efeitos Visuais:** Iluminação volumétrica, fumaça, explosões e partículas atmosféricas.
-- **Animações:** Movimentos do personagem principal, alienígena e NPCs.
+- ### **Modelos 3D:** Edifícios em ruínas, veículos destruídos, personagens e criaturas.
+  ![_magem aqui_](imagem.jpg)
+- ### **Texturas:** Superfícies realistas de concreto, metal enferrujado, sujeira e cinzas.
+   ![_magem aqui_](imagem.jpg)
+- ### **Efeitos Visuais:** Iluminação volumétrica, fumaça, explosões e partículas atmosféricas.
+   ![_magem aqui_](imagem.jpg)
+- ### **Animações:** Movimentos do personagem principal, alienígena e NPCs.
+   ![_magem aqui_](imagem.jpg)
 
 ## **Músicas e Áudio**
 
