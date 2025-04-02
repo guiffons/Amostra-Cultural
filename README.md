@@ -100,6 +100,32 @@ A relação entre humanos e alienígenas será abordada no jogo, mas de uma form
 
 ---
 
+## **Assets**
+
+Os assets utilizados no jogo incluem:
+
+- **Modelos 3D:** Edifícios em ruínas, veículos destruídos, personagens e criaturas.
+- **Texturas:** Superfícies realistas de concreto, metal enferrujado, sujeira e cinzas.
+- **Efeitos Visuais:** Iluminação volumétrica, fumaça, explosões e partículas atmosféricas.
+- **Animações:** Movimentos do personagem principal, alienígena e NPCs.
+
+## **Músicas e Áudio**
+
+A trilha sonora será atmosférica, com composições melancólicas e tensas para reforçar a ambientação. Os principais elementos sonoros incluem:
+
+- **Música de Fundo:** Sons ambientais sombrios e melodias minimalistas.
+- **Efeitos Sonoros:** Passos em diferentes superfícies, ruídos metálicos, explosões distantes.
+- **Vozes:** Áudios distorcidos de transmissões antigas e murmúrios alienígenas.
+
+## **Mecânicas de Jogo**
+
+O jogo terá as seguintes mecânicas:
+
+- **Exploração:** O jogador deverá atravessar um ambiente perigoso, evitando ameaças.
+- **Furtividade:** Esconder-se e se mover silenciosamente será essencial para sobreviver.
+- **Quebra-Cabeças:** Elias precisará resolver enigmas para desbloquear novas áreas.
+- **Gerenciamento de Recursos:** O jogador precisará encontrar suprimentos para sobreviver.
+
 ## **Conclusão**
 
 Este projeto busca unir referências cinematográficas em um jogo original e imersivo. A narrativa forte, a jogabilidade baseada em exploração e stealth, e a atmosfera sombria serão os pilares centrais da experiência. O jogo será desenvolvido em Unity e terá um design minimalista para manter o foco na narrativa e na imersão do jogador. Mais detalhes serão adicionados conforme o desenvolvimento avança.
